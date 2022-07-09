@@ -2,14 +2,9 @@ Hi there 👋. Here are some pinpoints to tools I am using or I am working/worke
 
 ## Tools
 
-### Deobfuscation
-
-* [Qsynthesis](https://github.com/quarkslab/qsynthesis), Program synthesizer geared for deobfuscation. It leverages, [Triton](https://github.com/JonathanSalwan/Triton) for symbolic execution, and also [LevelDB](https://github.com/google/leveldb), [Z3](https://github.com/Z3Prover/z3) [llvmlite](https://github.com/numba/llvmlite), [capstone](https://github.com/capstone-engine/capstone)
-* [idasec](https://github.com/RobinDavid/idasec) *(unmaintained anymore)*, opaque predicate deobfuscation, trace generation via an IDA Pro plugin. Was using [Binsec](https://binsec.github.io)
-
-### Others
-
-* [pydimacs](https://github.com/RobinDavid/pydimacs), simple module to manipule CNF (Conjonctive Normal Form), graphs using Z3 Python API
+* [**Qsynthesis**](https://github.com/quarkslab/qsynthesis): Program synthesizer geared for deobfuscation. It leverages, [Triton](https://github.com/JonathanSalwan/Triton) for symbolic execution, and also [LevelDB](https://github.com/google/leveldb), [Z3](https://github.com/Z3Prover/z3) [llvmlite](https://github.com/numba/llvmlite), [capstone](https://github.com/capstone-engine/capstone)
+* [**idasec**](https://github.com/RobinDavid/idasec): *(unmaintained anymore)*, opaque predicate deobfuscation, trace generation via an IDA Pro plugin (using [Binsec](https://binsec.github.io))
+* [**pydimacs**](https://github.com/RobinDavid/pydimacs), simple module to manipule CNF (Conjonctive Normal Form), graphs using Z3 Python API
 
 ## Technical Blog Posts
 
