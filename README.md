@@ -1,6 +1,8 @@
-Hi there 👋. Here are some of the tools I am developing or working/worked on.
+## Hi there! 👋
 
-## Projects
+**I'm Robin** - I am Software Security Researcher @ Quarkslab. You can find below some projects I am developing or contributing to.
+
+## ⚡ Projects
 
 **Fuzzing / Symbolic Execution**:
 * [**PASTIS**](https://github.com/quarkslab/pastis): Collaborative fuzzing infrastructure. It leverages AFL++, Honggfuzz and TritonDSE (thus greybox and whitebox fuzzing) for program coverage and bug discovery.
@@ -18,9 +20,12 @@ Hi there 👋. Here are some of the tools I am developing or working/worked on.
 **Other**:
 * [**pydimacs**](https://github.com/RobinDavid/pydimacs), simple module to manipule CNF (Conjonctive Normal Form), graphs using Z3 Python API
 
-and more to come..
+## 📞 Contact
 
-## Technical Blog Posts
+⬅️ just here
+
+
+## ✍️ Technical Blog Posts
 
 * [Our Pwn2Own journey against time and randomness](https://blog.quarkslab.com/our-pwn2own-journey-against-time-and-randomness-part-1.html) [Pt.2](https://blog.quarkslab.com/our-pwn2own-journey-against-time-and-randomness-part-2.html)
 * [PASTIS: for Distributed Ensemble Fuzzing](https://blog.quarkslab.com/pastis-for-the-win.html)
@@ -31,9 +36,22 @@ and more to come..
 * [Remote Denial-of-Service on CycloneTCP : CVE-2021-26788](https://blog.quarkslab.com/remote-denial-of-service-on-cyclonetcp-cve-2021-26788.html)
 * [An Experimental Study of Different Binary Exporters](https://blog.quarkslab.com/an-experimental-study-of-different-binary-exporters.html)
 
-## Contact
 
-<-- just here
+## 📈 Stats
+<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RobinDavid/repos?time_range=one_year&theme=dark)](https://githubtrends.io) -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robindavid&show_icons=true&theme=radical) -->
+
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=robindavid&theme=radical&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robindavid&layout=compact&theme=radical&count_private=true&hide_border=true)</a>
+
+
+<details>
+  <summary>More details 🔬</summary>
+  https://www.githubwrapped.io/RobinDavid
+  <img src="https://github.com/RobinDavid/RobinDavid/assets/1887063/fcb51f88-caf3-4ddd-af25-cefab4311718"></img>
+  <!-- <a href="#">![github-wrapped](https://github.com/RobinDavid/RobinDavid/assets/1887063/fcb51f88-caf3-4ddd-af25-cefab4311718)</a> -->
+</details>
 
 <!--
 **RobinDavid/RobinDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,3 +67,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
