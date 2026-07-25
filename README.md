@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-**I'm Robin** - I am Software Security Researcher @ Quarkslab. You can find below some projects I am developing or contributing to.
+**I'm Robin** - I am Research Lead & Security Researcher @ Epsilon Sec. You can find below some projects I am developing or contributing to.
 
 ## ⚡ Projects
 
@@ -16,6 +16,12 @@
 * [**QBinDiff**](https://github.com/quarkslab/qbindiff): Binary differ, based on Network Alignment and Belief Propagation
 * [**python-bindiff**](https://github.com/quarkslab/python-bindiff): Python wrapper and API for Bindiff
 * [**python-binexport**](https://github.com/quarkslab/python-binexport): Python wrapper and API for BinExport
+* [**Pyrrha**](https://github.com/quarkslab/pyrrha): Firmware cartography (using [**Numbat**](https://github.com/quarkslab/numbat)
+
+**Binary Analysis / Scripting**:
+
+* [**Quokka**](https://github.com/quarkslab/quokka): Binary exporter (for IDA, Ghidra, Binary Ninja), and Python API for binary analysis
+* [**idascript**](https://github.com/quarkslab/idascript): IDA Pro scripting layer (for scripting parrallelization)
 
 **Other**:
 * [**pydimacs**](https://github.com/RobinDavid/pydimacs), simple module to manipule CNF (Conjonctive Normal Form), graphs using Z3 Python API
